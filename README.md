@@ -205,20 +205,21 @@ npm run dev
 
 ---
 
-![Screenshot 2025-04-14 011234](https://github.com/user-attachments/assets/af86227c-58ef-4c12-8896-6c028b956d51)
-![Screenshot 2025-04-14 013951](https://github.com/user-attachments/assets/c3a872ee-7112-4e72-99b4-134d05783944)
-![Screenshot 2025-04-14 012804](https://github.com/user-attachments/assets/0523c2bb-a2d1-448b-8672-2e6cb00afc16)
-![Screenshot 2025-04-14 012757](https://github.com/user-attachments/assets/9be48da5-517c-4fc9-bcc5-6457d147b71f)
-![Screenshot 2025-04-14 012744](https://github.com/user-attachments/assets/5a1c596e-b581-455d-9227-34bea4302473)
-![Screenshot 2025-04-14 011615](https://github.com/user-attachments/assets/394a439e-9550-4abe-b831-6a4f7f835bc0)
-![Screenshot 2025-04-14 011556](https://github.com/user-attachments/assets/b7a4db4a-afd6-469b-803d-10ddf003563d)
-![Screenshot 2025-04-14 011552](https://github.com/user-attachments/assets/17df3508-b0ca-4b70-ac83-9c1239bc9f8c)
-![Screenshot 2025-04-14 011537](https://github.com/user-attachments/assets/d61d2f84-738d-43ae-93c2-0fd189ba21c1)
-![Screenshot 2025-04-14 011503](https://github.com/user-attachments/assets/58ae1c6f-97c1-4d4e-973c-1ab1b97ca34b)
-![Screenshot 2025-04-14 011359](https://github.com/user-attachments/assets/3668737a-b1a8-4f1b-9b9f-2759a7b2ef7a)
-![Screenshot 2025-04-14 011350](https://github.com/user-attachments/assets/770bc0a9-faa7-4d91-a4ab-0ee090444a66)
-![Screenshot 2025-04-14 011319](https://github.com/user-attachments/assets/24625e4e-31f0-495c-b899-a2827e626411)
-![Screenshot 2025-04-14 011253](https://github.com/user-attachments/assets/69fc533b-c089-4e76-9e8f-2e8f1f0f2e0b)
+
+![Screenshot 2025-04-14 011234](https://github.com/user-attachments/assets/d83e9afe-470a-46ca-a708-a0cc1b34c6de)
+![Screenshot 2025-04-14 011253](https://github.com/user-attachments/assets/36e8e590-ca00-4d56-8ea2-f7827662c08d)
+![Screenshot 2025-04-14 011319](https://github.com/user-attachments/assets/feacd8a0-ce08-4c63-b447-44570b0a3105)
+![Screenshot 2025-04-14 011350](https://github.com/user-attachments/assets/b36cd6db-2960-4a7a-ad6d-5ba437715333)
+![Screenshot 2025-04-14 011359](https://github.com/user-attachments/assets/3ee23069-6c4e-42de-ab40-7d816dd6fbf5)
+![Screenshot 2025-04-14 011503](https://github.com/user-attachments/assets/beca3141-5e95-4887-84be-ddc42b2dc53a)
+![Screenshot 2025-04-14 011537](https://github.com/user-attachments/assets/a1a6f161-bffb-4cfe-8965-9514a3cad5d9)
+![Screenshot 2025-04-14 011552](https://github.com/user-attachments/assets/e095bf14-c24a-4a76-a99e-b08e1c57bb78)
+![Screenshot 2025-04-14 011556](https://github.com/user-attachments/assets/5a545182-85a5-4e91-9aef-cca6d2a2ab8e)
+![Screenshot 2025-04-14 011615](https://github.com/user-attachments/assets/ede33081-61ca-4cc5-a9b1-28dbb3596cab)
+![Screenshot 2025-04-14 012744](https://github.com/user-attachments/assets/1ca7eb71-6269-4232-8fdf-6fd368887f75)
+![Screenshot 2025-04-14 012757](https://github.com/user-attachments/assets/4e8b2b53-b635-4684-a946-a5e41de0fd86)
+![Screenshot 2025-04-14 012804](https://github.com/user-attachments/assets/dabf3323-ef86-40c1-aebe-76749634a694)
+![Screenshot 2025-04-14 013951](https://github.com/user-attachments/assets/0bf0d82b-025d-4568-b44e-4542ab9514d3)
 
 
 
